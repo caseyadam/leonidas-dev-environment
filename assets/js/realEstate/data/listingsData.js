@@ -24,7 +24,7 @@ var listingsData = [
       'elevator',
       'gym'
     ],
-    homeType: 'Apartment'
+    homeType: 'Condo'
     image: 'https://www.adinahotels.com/wp-content/uploads/sites/4/2016/07/adina-melbourne-flinders-street-apartment-hotel-one-and-two-bedroom-apartment-2-2013.jpg'
   },
   {
@@ -38,7 +38,7 @@ var listingsData = [
       'elevator',
       'gym'
     ],
-    homeType: 'Apartment'
+    homeType: 'Single Home'
     image: 'https://c.o0bg.com/rf/image_960w/Boston/2011-2020/2017/01/09/BostonGlobe.com/Lifestyle/Images/doherty_10names04_liv.jpg'
   },
   {
@@ -52,7 +52,7 @@ var listingsData = [
       'elevator',
       'gym'
     ],
-    homeType: 'Apartment'
+    homeType: 'Studio'
     image: 'https://www.simpsonpropertygroup.com/Uploads2/CommunityAlertImages_resized/az160713-0947master3_1.jpg'
   },
   {
@@ -80,7 +80,7 @@ var listingsData = [
       'elevator',
       'gym'
     ],
-    homeType: 'Apartment'
+    homeType: 'Multi-home'
     image: 'https://www.adinahotels.com/wp-content/uploads/sites/4/2016/09/adina-apartment-hotel-south-yarra-melbourne-studio-apartment-bedroom-king-2016-1.jpg'
   },
   {
